@@ -47,6 +47,8 @@ export default function Home() {
 
         <div className={styles.result}>{result}</div>
                     <a target="_blank" href="https://www.amazon.de/b?_encoding=UTF8&tag=wissensjakobv-21&linkCode=ur2&linkId=cfc1b40bcfc854da7647c2bc20db8c2c&camp=1638&creative=6742&node=340852031">Hast du Futternapf, Spielzeug, Bett? Die besten Dinge für deinen Liebling gibts auf amazon. (Affiliate-Link)</a>
+                    <a href="https://www.torial.com/jakob.vicari/about">Impressum</a>
+                    
 
       </main>
     </div>
